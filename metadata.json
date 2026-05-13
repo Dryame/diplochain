@@ -1,0 +1,6 @@
+{
+  "name": "DiploChain",
+  "description": "Blockchain-based academic diploma certification platform for institutions, graduates, and recruiters.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["Blockchain Certification", "QR Code Verification", "Digital Wallet"]
+}
